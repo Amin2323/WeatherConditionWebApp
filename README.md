@@ -1,8 +1,8 @@
 # Network Architecture a Practical Approach
 
-## Air Qaulity Measurement System
+## Air Quality Measurement System
 
-This Repository is belongs to the Air Qaulity Measurement System Project which contains all software artifacts. The documentation about the project progress and organization stuff is available in Wiki.  
+This Repository is belongs to the Air Quality Measurement System Project which contains all software artifacts. The documentation about the project progress and organization stuff is available in Wiki.  
 
 ## Overview 
 --------------------------
